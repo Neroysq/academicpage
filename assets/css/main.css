@@ -1,0 +1,101 @@
+html {
+    font-size: 130%;
+}
+
+body {
+    background-color: white;
+    background-color: #97BC62FF;
+    background-color: #FCF6F5FF;
+    margin: 0;
+    padding: 0;
+    min-width: 400px;
+    font-family: "Noto Serif", serif;
+}
+
+a {
+    text-decoration: none;
+    color: #00539CFF;
+}
+
+.banner {
+    text-align: center;
+    background-color: #2C5F2D;
+    margin: ;
+}
+
+.banner .title {
+    color: white;
+    padding: 30px;
+}
+
+.banner .title .eng-name {
+    font-size: 4rem;
+}
+
+.banner .title .chn-name {
+    font-size: 4rem;
+    font-family: 'Zhi Mang Xing', cursive;
+    padding: 0rem 1rem;
+}
+
+.container {
+    padding: 20px 50px;
+    max-width: 40rem;
+    margin: auto;
+}
+
+.avatar {
+    margin: 0.5rem 1rem 0.5rem 0.5rem;
+    float: left;
+    width: 250px;
+    border-radius: 0.5rem;
+}
+
+.aboutme-text {
+    font-size: 1rem;
+    line-height: 1.5rem;
+}
+
+.horizontal-split {
+    margin: 1rem;
+    color: black;
+    clear: both;
+}
+
+h1 {
+    font-size: 2rem;
+    font-weight: 700;
+    margin-top: 2rem;
+    margin-bottom: 0rem;
+}
+
+ul > li a {
+    word-break: break-all;
+}
+
+ul > li {
+    padding-bottom: 1rem;
+    list-style: none;
+}
+
+.me {
+    font-style: italic;
+    font-weight: 500;
+}
+
+span.pub-title {
+    font-size: 1.1rem;
+    font-weight: 500;
+}
+
+.pub-venue {
+    color: grey;
+}
+
+.pub-authors {
+    font-size: 0.9rem;
+}
+
+.pub-links {
+    font-size: 0.9rem;
+}
